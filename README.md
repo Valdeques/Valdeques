@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Olá, meu nome é <a href="https://www.linkedin.com/in/valdequesjunior/"><i>Valdeques Borges</i></a></h2>
 
-<!--
-**Valdeques/Valdeques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Foco atual: Estudando para Backend Java + Spring!
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+<p>-Java</p> 
+<p>-Spring Boot</p>
+<p>-Microsservicos</p>
+<p>-Banco de dados </p>
+<hr>
+
+Sobre os Design Patterns:
+<p>-Strategy</p>
+<p>-Factory</p>
+<p>-Singleton</p>
+<p>-Builder</p>
+
+<hr>
